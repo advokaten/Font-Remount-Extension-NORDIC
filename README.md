@@ -20,7 +20,7 @@ This is used for menu headings.
 
 All of the above support Nordic characters.
 
-Many thanks to DanTheMan827
+Many thanks to DanTheMan827<br>
 Module and fonts by Advokaten
 
 REQUIREMENTS:
